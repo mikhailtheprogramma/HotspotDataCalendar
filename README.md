@@ -10,5 +10,6 @@
 ### Timedate format
 You need to parse the timestamp information into one column following timedate format: YYYY-MM-DD HH:MM:SS
 
+### Installation
 Easy peasy! Just copy the code into a Jupyter Notebook cell and run!
 ![howto](https://github.com/user-attachments/assets/a234c9cc-ed33-484f-8d07-b37662ad9b61)
